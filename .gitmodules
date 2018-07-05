@@ -1,5 +1,5 @@
-[submodule ".\\WebApplication2\\"]
-	path = .\\WebApplication2\\
+[submodule "WebApplication2"]
+	path = WebApplication2
 	url = git@github.com:ohritz/lab_sos_webapp2.git
 [submodule "Common"]
 	path = Common
